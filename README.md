@@ -1,0 +1,10 @@
+EXERCICIOS FEITOS PARA A AULA DE "APS"
+--------------------------------------
+RNF
+12/05/2020
+
+UML CASOS DE USO
+30/05/2020
+
+DESCRIÇÃO CASOS DE USO
+01/06/2020
